@@ -1,4 +1,4 @@
-# Projeto-LP-Maromo
+# Projeto final de semestre - Curso ADS FatecMM
 Será postado toda documentação referente ao trabalho final da disciplina de Linguagem de Programação - ADS 2º Semestre Noturno
 
 Problemas escolhidos: 
